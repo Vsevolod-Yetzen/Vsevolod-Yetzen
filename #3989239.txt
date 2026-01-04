@@ -1,0 +1,15 @@
+# ACCOUNT RECOVERY NOTICE
+
+```text
+I am the rightful owner of this account. I have lost access due to 2FA issues.
+   
+Support Ticket: #3989239
+Email: private
+Full Name: M U G
+Location: Ankara, Turkey
+
+
+
+This commit was made for proof purposes. I still have access to my account and can commit to my projects.
+
+```
